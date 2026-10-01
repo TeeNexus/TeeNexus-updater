@@ -1,0 +1,17 @@
+{
+	"maintance": false,
+	"offline": false,
+	"auth-only": false,
+	"update-req": false,
+	"latest": "1.4",
+	"versions": {
+		"1.4": {
+			"maintance": false,
+			"offline": false,
+			"auth-only": false,
+			"update-req": false,
+			"news": ["Sup :)"],
+			"update": {}
+		}
+	}
+}
