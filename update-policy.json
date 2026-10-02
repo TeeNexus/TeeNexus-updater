@@ -1,12 +1,12 @@
 {
-	"maintance": true,
-	"offline": true,
+	"maintance": false,
+	"offline": false,
 	"auth-only": false,
 	"update-req": false,
 	"latest": "1.4",
 	"versions": {
 		"1.4": {
-			"maintance": true,
+			"maintance": false,
 			"offline": false,
 			"auth-only": false,
 			"update-req": false,
