@@ -1,11 +1,11 @@
 {
 	"maintenance": {
-	  "enabled": false,
+	  "enabled": "false",
 	  "time": "02.10.2026 13:40",
 	  "title": "Bug fix"
 	},
 	"offline": {
-          "enabled":"true",
+          "enabled":"false",
           "time":"",
           "title":""
 	},
