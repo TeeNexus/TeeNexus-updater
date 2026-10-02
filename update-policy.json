@@ -1,7 +1,7 @@
 {
 	"maintenance": {
-	  "enabled": "false",
-	  "time": "02.10.2026 13:40",
+	  "enabled": "true",
+	  "time": "02.10.2026 17:40",
 	  "title": "Bug fix"
 	},
 	"offline": {
