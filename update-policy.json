@@ -1,6 +1,6 @@
 {
 	"maintance": true,
-	"offline": false,
+	"offline": true,
 	"auth-only": false,
 	"update-req": false,
 	"latest": "1.4",
