@@ -1,14 +1,14 @@
 {
-	"maintance": [
-          "enabled":true,
-          "time":"02.10.2026 15:40",
-          "title":"Bug fix"
-    ],
-	"offline": [
+	"maintenance": {
+	  "enabled": true,
+	  "time": "02.10.2026 13:40",
+	  "title": "Bug fix"
+	},
+	"offline": {
           "enabled":false,
           "time":"",
           "title":""
-    ],
+	},
 	"auth-only": true,
 	"update-req": false,
 	"latest": "1.4",
