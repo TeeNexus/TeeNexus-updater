@@ -5,7 +5,7 @@
 	  "title": "Bug fix"
 	},
 	"offline": {
-          "enabled":"false",
+          "enabled":"true",
           "time":"",
           "title":""
 	},
