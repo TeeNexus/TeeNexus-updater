@@ -1,7 +1,7 @@
 {
 	"maintance": false,
-	"offline": true,
-	"auth-only": false,
+	"offline": false,
+	"auth-only": true,
 	"update-req": false,
 	"latest": "1.4",
 	"versions": {
