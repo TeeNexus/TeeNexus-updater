@@ -1,6 +1,6 @@
 {
 	"maintance": [
-          "enabled":"true",
+          "enabled":true,
           "time":"02.10.2026 15:40",
           "title":"Bug fix"
     ],
