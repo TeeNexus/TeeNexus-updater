@@ -1,5 +1,5 @@
 {
-	"maintance": false,
+	"maintance": true,
 	"offline": false,
 	"auth-only": false,
 	"update-req": false,
